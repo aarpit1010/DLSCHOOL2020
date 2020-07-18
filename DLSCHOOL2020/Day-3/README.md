@@ -1,4 +1,4 @@
-# Recurrent Neural Network (CNN)
+# Recurrent Neural Network (RNN)
 
 The link to the Youtube video is :
 
